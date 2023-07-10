@@ -1,0 +1,29 @@
+body{
+    font-family:Arial, Helvetica, sans-serif ;
+    color: rgba(0, 0, 0, 0.87);
+    background-color: rgb(134, 127, 127);
+}
+li{
+    list-style-type: square;
+
+}
+p{
+    color: rgba(125, 223, 68, 0.815);
+}
+.p1{
+
+    padding: 20px;
+   
+    line-height: 90%;
+}
+.p2{
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 20 px;
+    text-transform: uppercase;
+
+}
+.p3{
+    line-height: 140%;
+    text-indent: 20px;
+}
